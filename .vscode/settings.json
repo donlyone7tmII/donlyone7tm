@@ -1,0 +1,23 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cSpell.words": [
+        "appbar",
+        "Canva",
+        "Cupertino",
+        "dartz",
+        "datasources",
+        "firebaseapp",
+        "firebasestorage",
+        "firestore",
+        "formkey",
+        "Fredrex",
+        "Lizza",
+        "Molejon",
+        "Roboto",
+        "Schyler",
+        "subcollection",
+        "Subdocument",
+        "usecases"
+    ]
+}

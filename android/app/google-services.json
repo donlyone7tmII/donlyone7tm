@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "923110657267",
+    "project_id": "subscription-manager-956fb",
+    "storage_bucket": "subscription-manager-956fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923110657267:android:f0bf6d21a02aa778997b86",
+        "android_client_info": {
+          "package_name": "com.example.subscri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBExHfptZuafowXoiLERndAoNw7LKsKXns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923110657267:android:551c72b9c2fd7b87997b86",
+        "android_client_info": {
+          "package_name": "com.example.subscription_man"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBExHfptZuafowXoiLERndAoNw7LKsKXns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923110657267:android:044932f9527977ef997b86",
+        "android_client_info": {
+          "package_name": "com.example.subscription_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBExHfptZuafowXoiLERndAoNw7LKsKXns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923110657267:android:b4280e030121591a997b86",
+        "android_client_info": {
+          "package_name": "com.example_subscription_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBExHfptZuafowXoiLERndAoNw7LKsKXns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
